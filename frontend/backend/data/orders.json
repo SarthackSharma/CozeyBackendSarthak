@@ -1,0 +1,147 @@
+{
+  "orders": [
+    {
+      "order_id": "ORD001",
+      "order_total": 199.99,
+      "order_date": "2024-02-14",
+      "shipping_address": "100 Dundas Street East",
+      "customer_name": "John Smith",
+      "customer_email": "john.smith@email.com",
+      "line_items": [
+        {
+          "line_item_id": "LI001",
+          "product_id": "VAL001",
+          "product_name": "Valentines Box",
+          "price": 99.99,
+          "quantity": 1
+        },
+        {
+          "line_item_id": "LI002",
+          "product_id": "BIRTH001",
+          "product_name": "Birthday Box",
+          "price": 99.99,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "ORD002",
+      "order_total": 199.98,
+      "order_date": "2024-02-14",
+      "shipping_address": "100 Queen Street East",
+      "customer_name": "Rob Smith",
+      "customer_email": "rob.smith@email.com",
+      "line_items": [
+        {
+          "line_item_id": "LI003",
+          "product_id": "VAL001",
+          "product_name": "Valentines Box",
+          "price": 99.99,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "order_id": "ORD003",
+      "order_total": 199.99,
+      "order_date": "2024-02-14",
+      "shipping_address": "100 King Street East",
+      "customer_name": "Dan Smith",
+      "customer_email": "dan.smith@email.com",
+      "line_items": [
+        {
+          "line_item_id": "LI004",
+          "product_id": "CLIENT001",
+          "product_name": "Client Gift Box",
+          "price": 199.99,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "order_id": "ORD004",
+      "order_total": 299.97,
+      "order_date": "2024-02-14",
+      "shipping_address": "200 Bay Street",
+      "customer_name": "Sarah Johnson",
+      "customer_email": "sarah.j@email.com",
+      "line_items": [
+        {
+          "line_item_id": "LI005",
+          "product_id": "VAL001",
+          "product_name": "Valentines Box",
+          "price": 99.99,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "order_id": "ORD005",
+      "order_total": 399.98,
+      "order_date": "2024-02-15",
+      "shipping_address": "300 Front Street West",
+      "customer_name": "Emily Brown",
+      "customer_email": "emily.b@email.com",
+      "line_items": [
+        {
+          "line_item_id": "LI006",
+          "product_id": "CLIENT001",
+          "product_name": "Client Gift Box",
+          "price": 199.99,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "order_id": "ORD006",
+      "order_total": 299.97,
+      "order_date": "2024-02-15",
+      "shipping_address": "400 Yonge Street",
+      "customer_name": "Michael Wilson",
+      "customer_email": "michael.w@email.com",
+      "line_items": [
+        {
+          "line_item_id": "LI007",
+          "product_id": "BIRTH001",
+          "product_name": "Birthday Box",
+          "price": 99.99,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "order_id": "ORD007",
+      "order_total": 499.95,
+      "order_date": "2024-02-13",
+      "shipping_address": "500 College Street",
+      "customer_name": "Jessica Lee",
+      "customer_email": "jessica.l@email.com",
+      "line_items": [
+        {
+          "line_item_id": "LI008",
+          "product_id": "VAL001",
+          "product_name": "Valentines Box",
+          "price": 99.99,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "order_id": "ORD008",
+      "order_total": 599.97,
+      "order_date": "2024-02-13",
+      "shipping_address": "600 Bloor Street West",
+      "customer_name": "David Chen",
+      "customer_email": "david.c@email.com",
+      "line_items": [
+        {
+          "line_item_id": "LI009",
+          "product_id": "CLIENT001",
+          "product_name": "Client Gift Box",
+          "price": 199.99,
+          "quantity": 3
+        }
+      ]
+    }
+  ]
+} 

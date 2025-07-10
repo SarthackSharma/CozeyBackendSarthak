@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "product_id": "VAL001",
+      "product_name": "Valentines Box",
+      "product_type": "gift_box",
+      "components": [
+        {
+          "component_id": "VAL_ROSE",
+          "name": "Red Roses Bouquet",
+          "quantity": 1,
+          "location": "A1-01"
+        },
+        {
+          "component_id": "VAL_CHOC",
+          "name": "Box of chocolates",
+          "quantity": 1,
+          "location": "A1-02"
+        },
+        {
+          "component_id": "VAL_CARD",
+          "name": "Love card",
+          "quantity": 1,
+          "location": "A1-03"
+        },
+        {
+          "component_id": "VAL_PERF",
+          "name": "Women's perfume",
+          "quantity": 1,
+          "location": "A1-04"
+        }
+      ]
+    },
+    {
+      "product_id": "BIRTH001",
+      "product_name": "Birthday Box",
+      "product_type": "gift_box",
+      "components": [
+        {
+          "component_id": "BIRTH_CAKE",
+          "name": "Birthday cupcake",
+          "quantity": 1,
+          "location": "B1-01"
+        },
+        {
+          "component_id": "BIRTH_GIFT",
+          "name": "$100 Visa Gift Card",
+          "quantity": 1,
+          "location": "B1-02"
+        },
+        {
+          "component_id": "BIRTH_CARD",
+          "name": "Birthday card",
+          "quantity": 1,
+          "location": "B1-03"
+        }
+      ]
+    },
+    {
+      "product_id": "CLIENT001",
+      "product_name": "Client Gift Box",
+      "product_type": "gift_box",
+      "components": [
+        {
+          "component_id": "CLIENT_WINE",
+          "name": "Bottle of wine",
+          "quantity": 1,
+          "location": "C1-01"
+        },
+        {
+          "component_id": "CLIENT_FRUIT",
+          "name": "Fruit basket",
+          "quantity": 1,
+          "location": "C1-02"
+        },
+        {
+          "component_id": "CLIENT_PEN",
+          "name": "Pen",
+          "quantity": 1,
+          "location": "C1-03"
+        }
+      ]
+    }
+  ]
+} 

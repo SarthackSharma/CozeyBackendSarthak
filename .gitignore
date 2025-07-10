@@ -1,0 +1,47 @@
+# Only ignore node_modules in both frontend and backend
+**/node_modules/
+
+# Environment files (keep example.env if you have it)
+**/.env
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+
+# Keep all source code
+!**/src/
+!**/public/
+!**/components/
+!**/pages/
+!**/routes/
+!**/controllers/
+!**/models/
+!**/middleware/
+
+# Keep configuration files
+!package.json
+!package-lock.json
+!tsconfig.json
+!next.config.js
+!vite.config.js
+!vercel.json
+
+# Keep README and documentation
+!README.md
+!*.md
+
+# Exclude build and cache directories
+**/build/
+**/dist/
+**/.next/
+**/.cache/
+**/coverage/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
